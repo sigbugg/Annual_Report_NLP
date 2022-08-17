@@ -8,3 +8,6 @@ Fed this to several ML models-
 3. XGB (best accuracy)
 
 Pre-process the input pdf annual report unstuctured data using pdfminer. Feed it to the classifier to classify as all the pages of the pdf file as financial notes, financial statement or junk.
+
+## Learning github
+freecodecamp
